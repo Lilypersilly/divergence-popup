@@ -6,4 +6,4 @@ To respect the original artist's copyright, this repository does not include the
 
 To use this widget:
 1. Create a folder at `~/.config/waybar/nixie-assets/`
-2. Place your Nixie tube images inside, named `0.png` through `9.png` and `dot.png`.
+2. Place your Nixie tube images inside, named `0.png` through `9.png` and `dot.png`. As well as SE.wav for an on-run sound effect.
